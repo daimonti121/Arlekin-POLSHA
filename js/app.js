@@ -2,7 +2,7 @@ window.HUB_EVENTS={ASSET_ADDED:"ASSET_ADDED",ASSET_DELETED:"ASSET_DELETED",ASSET
 
 var colors = ["#3a1149", "#f30000", "#24177c", "#ec710b",
              "#3a1149", "#f30000", "#24177c", "#ec710b"];
-var prizes = ["        Spróbuj         ponownie", "    100% do     800 PLN", "20 DS", "100 DS", "Teraz w", "    50% do     150 PLN", "75 DS", "    75% do     300 PLN"];
+var prizes = ["        Spróbuj         ponownie", "    100% do     700 PLN", "20 DS", "100 DS", "Teraz w", "    50% do     875 PLN", "75 DS", "    75% do     1050 PLN"];
 
 var startAngle = 0*Math.PI/180;
 var arc = (2 * Math.PI) / colors.length;
